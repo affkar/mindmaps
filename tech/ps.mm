@@ -1,0 +1,16 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1436650043302" ID="ID_921927618" MODIFIED="1436650052817" TEXT="ps">
+<node CREATED="1436650054215" ID="ID_1881148132" MODIFIED="1436650083605" POSITION="right" TEXT="-u user">
+<node CREATED="1436650063550" ID="ID_1602300253" MODIFIED="1436650080339" TEXT="processes started by user">
+<node CREATED="1436650085972" ID="ID_1487024561" MODIFIED="1436650113023" TEXT="user is optional .default is current user"/>
+</node>
+</node>
+<node CREATED="1436650115794" ID="ID_1085752833" MODIFIED="1436650122808" POSITION="right" TEXT="-f">
+<node CREATED="1436650124279" ID="ID_585590262" MODIFIED="1436650126356" TEXT="verbose"/>
+</node>
+<node CREATED="1436650128409" ID="ID_485235421" MODIFIED="1436650130988" POSITION="right" TEXT="-e">
+<node CREATED="1436650132293" ID="ID_373949974" MODIFIED="1436650134451" TEXT="all"/>
+</node>
+</node>
+</map>
